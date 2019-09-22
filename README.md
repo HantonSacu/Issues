@@ -1,6 +1,7 @@
 # Issues
 
-**TODO: Add description**
+A project from the book 'Programming Elixir'. The app fetches arbitrary number of issues from any repo specified and formates them
+for a better overview.
 
 ## Installation
 
@@ -15,7 +16,5 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/issues](https://hexdocs.pm/issues).
+Documentation:(https://hexdocs.pm/issues).
 
